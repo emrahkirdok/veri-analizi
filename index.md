@@ -1,39 +1,24 @@
 ## Veri Analizi Dersi 2021 - 2022
 
-You can use the [editor on GitHub](https://github.com/emrahkirdok/veri-analizi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Merhabalar. **Veri Analizi** dersi ile ilgili en güncel bilgileri bu sayfa üzerinden paylaşacağım. 
 
-[Birinci hafta birinci ders](Hafta_01/sunum_01_neden_veri_bilimi.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Hafta 01
 
-### Markdown
+Haftanın sunumları:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
++ [Sunum_01_01](Hafta_01/sunum_01_neden_veri_bilimi.html)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Haftanın ek kaynak ve okumaları:
 
-- Bulleted
-- List
++ [Yunus Emrah Bulut, Medium makalesi](https://medium.com/datajarlabs/veri-bilimi-nedir-ve-nasıl-öğrenilebilir-b5ff8c581bbc)
 
-1. Numbered
-2. List
+### Başvurulabilecek genel kaynaklar
 
-**Bold** and _Italic_ and `Code` text
++ [R for Data Science, Hadley Wickham ve Garret Grolemund](https://r4ds.had.co.nz)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emrahkirdok/veri-analizi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
