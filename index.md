@@ -1,4 +1,4 @@
-## Veri Analizi Dersi 2021 - 2022
+## Veri Analizi 2021 - 2022
 
 Merhabalar. **Veri Analizi** dersi ile ilgili en güncel bilgileri bu sayfa üzerinden paylaşacağım. 
 
