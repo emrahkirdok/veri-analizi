@@ -6,7 +6,7 @@ Merhabalar. **Veri Analizi** dersi ile ilgili en güncel bilgileri bu sayfa üze
   
 Haftanın sunumları:
 
-+ [Sunum_01_01](Hafta_01/sunum_01_neden_veri_bilimi.html)
++ [Sunum_01_01](https://github.com/emrahkirdok/veri-analizi/2021-2022/Hafta_01/sunum_01_neden_veri_bilimi.html)
 
 Haftanın ek kaynak ve okumaları:
 
