@@ -7,6 +7,7 @@ Merhabalar. **Veri Analizi** dersi ile ilgili en güncel bilgileri bu sayfa üze
 Haftanın sunumları:
 
 + [Sunum_01_01](Hafta_01/sunum_01_neden_veri_bilimi.html)
++ [Metin_01_02](Hafta_01/)
 
 Haftanın ek kaynak ve okumaları:
 
