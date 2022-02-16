@@ -3,6 +3,7 @@ title: "Veri Bilimine Giriş"
 author: "Emrah Kırdök, Ph. D."
 date: "16/02/2022"
 output:
+  bookdown::html_document2:
   bookdown::pdf_document2:
     template: ../resources/templates/eisvogel.tex
     keep_md: yes
