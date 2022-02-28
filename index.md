@@ -9,10 +9,9 @@ Arkadaşlar, ek ders için aşağıda bir Doodle hazırladım. Bu doodle içeris
 [Doodle bağlantısı için tıklayın](https://doodle.com/meeting/participate/id/DbDYm7nd)
 ### Dersler
   
-Haftanın sunumları:
-
 + Veri bilimine giriş sunum [html](Hafta_01/sunum_01_neden_veri_bilimi.html)
 + Veri bilimine giriş metin [html](Hafta_01/01_02_metin_veri_bilimine_giris.html), [pdf](https://drive.google.com/file/d/12w58aBTQKVyn4NwuR7vWKknZvj5XUvzZ/view?usp=sharing)
++ R ve R stüdyo yüklenmesi (Anıl'ın katkılarıyla) [video](https://drive.google.com/file/d/1WSclKBr2VwgeD5r2Df3Acg02ejb7zy-V/view?usp=sharing)
 + R ve R stüdyo kullanımı [html](Hafta_01/R_giris.html), [pdf](https://drive.google.com/file/d/1Fdg7qf4L0L-4PHCKmaGwMqmSryINDG2C/view?usp=sharing)
 
 Haftanın ek kaynak ve okumaları:
