@@ -3,7 +3,7 @@ title: "Vektörel işlemler"
 description: "Vektörleri kesip biçme"
 subtitle: "BYT210 Veri Analizi"
 author: "Emrah Kırdök, PhD"
-date: "Şubat 19, 2021"
+date: "Şubat 28, 2022"
 lang: tr
 output: ioslides_presentation
 ---
@@ -86,7 +86,7 @@ c(NA, 1, 2)
 
 ## Kayıp veri
 
-+ We will use `NA` a lot
++ `NA`'yı çok kullanacağız!
 + Not Available = Yok
 + Deney sonucu çıkmadığında belirtiriz
 
