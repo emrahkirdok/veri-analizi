@@ -2,7 +2,7 @@
   
 Merhabalar. **Veri Analizi** dersi ile ilgili en güncel bilgileri bu sayfa üzerinden paylaşacağım.  
 
-### Ek dersin zamanı
+### Ek dersin zamanı
 
 Arkadaşlar, ek ders için aşağıda bir Doodle hazırladım. Bu doodle içerisinde, isminiz ve soyisminiz belirterek müsait olduğunuz günleri ve saatleri işaretlemenizi bekliyorum. Mümkünse şimdi yapalım. Çok teşekkürler!
 
