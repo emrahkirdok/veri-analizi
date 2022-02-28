@@ -1,8 +1,13 @@
 ## Veri Analizi 2021 - 2022
   
 Merhabalar. **Veri Analizi** dersi ile ilgili en güncel bilgileri bu sayfa üzerinden paylaşacağım.  
-  
-### Hafta 01
+
+### Ek dersin zamanı
+
+Arkadaşlar, ek ders için aşağıda bir Doodle hazırladım. Bu doodle içerisinde, isminiz ve soyisminiz belirterek müsait olduğunuz günleri ve saatleri işaretlemenizi bekliyorum. Mümkünse şimdi yapalım. Çok teşekkürler!
+
+[Doodle bağlantısı için tıklayın](https://doodle.com/meeting/participate/id/DbDYm7nd)
+### Dersler
   
 Haftanın sunumları:
 
