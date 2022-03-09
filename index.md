@@ -16,11 +16,11 @@ Arkadaşlar, ek ders için aşağıda bir Doodle hazırladım. Bu doodle içeris
 + Vektörler sunumu (devam) [html](Hafta_01/sunum_03_vektörler_devam.html)
 + Vektörler pratik [html](Hafta_01/pratik_02.html), [pdf](https://drive.google.com/file/d/1cnv9du5JVRJTSosWjt7VtrN0V3Zc443G/view?usp=sharing)
 + Rmarkdown kullanımı (sunum) [html](Hafta_01/sunum_04_rmarkdown.html)
-+ Matris ve veri çerçeveleri (sunum) [html](sunum_05_matrix_data_frames.html)
-+ Matris ve veri çerçeveleri pratik (metin) [html](pratik_03.html)
-+ Listeler (sunum) [html](sunum_06_listeler.html)
-+ Listeler pratik (sunum) [html](pratik_04.html)
-+ Rmakrdown birleştirme tekrar [html](sunum_05_r_rmarkdown_birlestirme.html)
++ Matris ve veri çerçeveleri (sunum) [html](Hafta_01/sunum_05_matrix_data_frames.html)
++ Matris ve veri çerçeveleri pratik (metin) [html](Hafta_01/pratik_03.html)
++ Listeler (sunum) [html](Hafta_01/sunum_06_listeler.html)
++ Listeler pratik (sunum) [html](Hafta_01/pratik_04.html)
++ Rmakrdown birleştirme tekrar [html](Hafta_01/sunum_05_r_rmarkdown_birlestirme.html)
 
 Haftanın ek kaynak ve okumaları:
 
