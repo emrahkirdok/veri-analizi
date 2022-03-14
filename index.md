@@ -1,5 +1,9 @@
 ## Veri Analizi 2021 - 2022
-  
+
+Dersin internet sitesi değişmiştir:
+
+[https://emrahkirdok.github.io/ybva](https://emrahkirdok.github.io/ybva)
+
 Merhabalar. **Veri Analizi** dersi ile ilgili en güncel bilgileri bu sayfa üzerinden paylaşacağım.  
 
 ### Ek dersin zamanı
